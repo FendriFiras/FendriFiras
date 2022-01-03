@@ -35,10 +35,9 @@
 
 
 <p align="center">
-<a href="https://discordapp.com/users/yash goel#4991/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/yash-goel-610543213/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yash_linkedIn"/></a> <a href="https://www.instagram.com/memeskathela/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yash" /></a>
-<br>
-<br>
-<!-- <a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a> -->
+[linkedin]: https://www.linkedin.com/in/firas-fendri/
+[github]:https://github.com/FendriFiras
+[gmail]: firas.fendri@enis.tn
 </p>
 
 <hr>
@@ -47,6 +46,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/firas-fendri/
-[github]:https://github.com/FendriFiras
-[gmail]: firas.fendri@enis.tn
+
