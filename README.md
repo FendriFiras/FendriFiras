@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Firas;DevOps+Enthusiast+🖥;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Firas;DevOps+Enthusiast+🖥;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 <br>
@@ -29,7 +29,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://github.com/FendriFiras/Aryamanz29/blob/master/images/connect-with-me.png">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=50&center=true&vCenter=true&width=550&height=70&lines=Connect+with+me">
 </p>
 
 
